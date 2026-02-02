@@ -51,7 +51,7 @@
 ### Шаг 1: Скачать плагин
 ```bash
 # Способ 1: Через релизы GitHub
-[https://github.com/Day2S/ProfessionMaster/releases](https://github.com/day2s/EnchantedRecord/releases)
+[https://github.com/WinstonLog/EnchantedRecord/releases](https://github.com/WinstonLog/EnchantedRecord/releases)
 
 # Способ 2: Через менеджера плагинов
 # (укажите ваш способ распространения)
