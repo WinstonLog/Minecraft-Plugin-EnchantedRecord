@@ -1,2 +1,34 @@
 ## EnchantedRecord 📖✨
-<p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.16.5+-success" alt="Minecraft Version"> <img src="https://img.shields.io/badge/Spigot-Compatible-blue" alt="Spigot"> <img src="https://img.shields.io/badge/Paper-Compatible-green" alt="Paper"> <img src="https://img.shields.io/badge/Language-RU%2FEN-yellow" alt="Language"> <img src="https://img.shields.io/badge/License-MIT-orange" alt="License"> </p><p align="center"> <img 
+<p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.16.5+-success" alt="Minecraft Version"> <img src="https://img.shields.io/badge/Spigot-Compatible-blue" alt="Spigot"> <img src="https://img.shields.io/badge/Paper-Compatible-green" alt="Paper"> <img src="https://img.shields.io/badge/Language-RU%2FEN-yellow" alt="Language"> <img src="https://img.shields.io/badge/License-MIT-orange" alt="License"> </p><p align="center"> 
+
+🎯 Что это?
+EnchantedRecord — это плагин для Minecraft, который позволяет выбирать и переносить отдельные зачарования с предметов на книги с помощью точильного камня. Идеальное решение для:
+
+✅ Сохранения редких зачарований перед ремонтом
+
+✅ Создания библиотеки зачарований
+
+✅ Управления зачарованиями на PvP и мини-игровых серверах
+
+✅ Экономии ресурсов при перезачаровании
+
+✨ Основные возможности
+🎮 Игровые фичи
+Выборочный перенос — выбирайте конкретное зачарование из нескольких
+
+Интерактивный GUI — удобное меню выбора с подсветкой
+
+Мультиязычность — русский и английский языки
+
+Система кулдаунов — баланс использования
+
+Черные списки — миров и предметов
+
+🛠️ Технические преимущества
+Полная кастомизация — названия, описания, звуки
+
+Гибкие настройки — все через конфиг-файлы
+
+Оптимизация — минимальное влияние на производительность
+
+Поддержка 1.16.5+ — совместимость со всеми современными версиями
