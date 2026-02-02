@@ -76,3 +76,10 @@ consume-book: true  # Потреблять книгу при создании
 Пример работы:
 <img width="4296" height="705" alt="deepseek_mermaid_20260202_3ead65" src="https://github.com/user-attachments/assets/9e3b5ff9-b737-471b-a6ea-cfecc28c96bd" />
 
+<div align="center">
+✨ Сделано с ❤️ для сообщества Minecraft
+EnchantedRecord — ваш надежный инструмент для управления зачарованиями!
+
+⭐ Если вам нравится плагин, поставьте звезду на GitHub!
+
+</div>
