@@ -67,13 +67,8 @@
 
 ### Шаг 3: Базовая настройка
 ```bash
-# Минимальный уровень для выбора профессии
-min-level: 10
-
-# Можно ли менять профессию после выбора?
-allow-profession-change: false
-
-# Автоназначение профессии новым игрокам
-auto-assign: false
-auto-assign-profession: NONE  # HUNTER, FARMER, LUMBERJACK, MINER
+# Основные настройки
+language: "ru"  # Язык плагина (ru/en)
+require-book: true  # Требовать книгу в инвентаре
+consume-book: true  # Потреблять книгу при создании
 ```
