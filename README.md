@@ -1,2 +1,13 @@
-## EnchantedRecord 📖✨
-<p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.16.5+-success" alt="Minecraft Version"> <img src="https://img.shields.io/badge/Spigot-Compatible-blue" alt="Spigot"> <img src="https://img.shields.io/badge/Paper-Compatible-green" alt="Paper"> <img src="https://img.shields.io/badge/Language-RU%2FEN-yellow" alt="Language"> <img src="https://img.shields.io/badge/License-MIT-orange" alt="License"> </p><p align="center"> <img 
+<div align="center">
+https://img.shields.io/badge/Minecraft-1.16.5+-success
+https://img.shields.io/badge/Spigot-Compatible-blue
+https://img.shields.io/badge/Paper-Compatible-green
+https://img.shields.io/badge/Language-RU%252FEN-yellow
+https://img.shields.io/badge/Downloads-100%252B-brightgreen
+https://img.shields.io/badge/License-MIT-orange
+
+Переносите зачарования с предметов на книги через точильный камень!
+
+Установка • Особенности • Использование • Конфигурация
+
+</div>
